@@ -3,8 +3,6 @@
 
 using namespace std;
 
-string vet[10];
-
 int main(){
     int n,m,a,b,res=0,i,j;
     vector<pair<int,int>> v1,v2;
