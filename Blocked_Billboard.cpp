@@ -16,4 +16,5 @@ int main(){
     intersec=intersec1+intersec2;
     cout<<total-intersec;
     return 0;
+    //olhar a solução da parte de retangulo da usaco, usa struct e funcao
 }
